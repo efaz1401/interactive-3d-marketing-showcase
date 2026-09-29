@@ -1,0 +1,11 @@
+{
+  "title": "yourfirstsite — Complete Website in 7 Days for 1000 SAR",
+  "description": "Domain, SEO, and fast deployment for 1000 SAR within 7 days. High performance bilingual websites.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
